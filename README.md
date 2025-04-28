@@ -1,0 +1,1 @@
+In this repository you will find 4 machine learning models implemented on the Kaggle Titanic dataset. Models include logistic regression, random forest, sequential neural network, and ensemble random forest-neural network.
